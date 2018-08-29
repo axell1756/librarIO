@@ -1,0 +1,4 @@
+M(odel) - Esentially a table within a DB translated into Java model.
+V(iev) - displays the model data, and sends user actions (e.g. button clicks) to the controller.
+C(ontroller) - provides model data to the view, and interprets user actions such as button clicks.
+R(epository) - Tells JPA that certain model extends JPA functionality to implement inherited methods like .find()
